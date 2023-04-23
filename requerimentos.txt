@@ -1,0 +1,7 @@
+pip
+requests
+bs4
+datetime
+psycopg2
+smtplib
+email.mime.text
